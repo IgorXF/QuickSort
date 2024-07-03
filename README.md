@@ -1,5 +1,5 @@
-## QuickSort
-# Explicação Passo a Passo:
+# QuickSort
+## Explicação Passo a Passo:
 
 Condição de Parada (if (left < right)):
 
