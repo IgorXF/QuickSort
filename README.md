@@ -1,5 +1,6 @@
-# QuickSort
-Explicação Passo a Passo:
+## QuickSort
+#Explicação Passo a Passo:
+
 Condição de Parada (if (left < right)):
 
 Esta condição verifica se ainda há mais de um elemento no subarray a ser ordenado. Se left não for menor que right, o subarray contém 0 ou 1 elemento, o que significa que não há necessidade de ordenação adicional.
